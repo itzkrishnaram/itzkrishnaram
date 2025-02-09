@@ -58,8 +58,7 @@
 
 ### 📫 Connect With Me  
 <p align="center">
-  <a href="www.linkedin.com/in/saravana19702001"
-    ">
+  <a href="www.linkedin.com/in/saravana19702001">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/ShivaRaghav">

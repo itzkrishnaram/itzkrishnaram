@@ -6,7 +6,7 @@
 
 Building scalable APIs, reliable distributed systems, and intuitive web applications.
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-itzkrishanram-181717?style=for-the-badge&logo=github)](https://github.com/itzkrishanram)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-itzkrishnaram-181717?style=for-the-badge&logo=github)](https://github.com/itzkrishnaram)
 
 </div>
 
@@ -65,11 +65,11 @@ A computer vision project focused on identifying emergency vehicles.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzkrishanram&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzkrishnaram&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzkrishanram&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzkrishnaram&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=itzkrishanram&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=itzkrishnaram&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -77,10 +77,11 @@ A computer vision project focused on identifying emergency vehicles.
 
 ## 🤝 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-itzkrishanram-181717?style=for-the-badge&logo=github)](https://github.com/itzkrishanram)
+[![GitHub](https://img.shields.io/badge/GitHub-itzkrishnaram-181717?style=for-the-badge&logo=github)](https://github.com/itzkrishnaram)
 
 <!-- Add your verified LinkedIn and portfolio URLs here when ready. -->
 
 ---
 
 <div align="center"><i>Building scalable solutions, one commit at a time.</i> 🚀</div>
+bb

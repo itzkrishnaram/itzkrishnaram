@@ -1,73 +1,86 @@
-## Hi there 👋
+<div align="center">
 
-<h1 align="center"> 
-  🚀 Krishnaram Saravanakumar | AI & Software Engineer  
-</h1>
+# Hi, I'm Krishnaram 👋
 
-<p align="center">
-  <b>Master’s in Computer Science @ Illinois Tech (3.66 GPA) </b><br>
-  Passionate about AI, Software Engineering, and Scalable Systems
-</p>
+### Full Stack Software Engineer | C# · ASP.NET Core · Angular · Cloud
 
----
+Building scalable APIs, reliable distributed systems, and intuitive web applications.
 
-### 🚀 About Me  
-•⁠  ⁠🎓 *Master’s in Computer Science @ IIT Chicago*  
-•⁠  ⁠💡 Exploring *AI/ML, NLP, and Software Development*  
-•⁠  ⁠💼 Former *Project Assosiate @SETS*  
-•⁠  ⁠🏗️ Building a *Personalized Travel Recommendation Engine*  
-•⁠  ⁠🎯 Aspiring *AI/ML Engineer & Software Developer*  
+[![GitHub Profile](https://img.shields.io/badge/GitHub-itzkrishanram-181717?style=for-the-badge&logo=github)](https://github.com/itzkrishanram)
+
+</div>
 
 ---
 
-### 🛠 Tech Stack  
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
- 
+## 👨‍💻 About Me
 
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
- 
- 
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+- 💼 Software Development Engineer focused on **C#, ASP.NET Core, Angular, and enterprise applications**.
+- 🎓 Master's in Computer Science from **Illinois Institute of Technology, Chicago**.
+- 🏗️ Experience building **REST APIs, microservices, database-backed applications, and event-driven workflows**.
+- ☁️ Worked with **AWS, Azure, Docker, and CI/CD pipelines**.
+- 🤖 Interested in **Generative AI, retrieval-augmented generation (RAG), and practical AI integrations**.
+- 🌱 Currently deepening my knowledge of **Kubernetes, Kafka, Docker, and Azure architecture**.
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+
+**Backend & Frontend**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+`ASP.NET Core` · `REST APIs` · `Entity Framework Core` · `LINQ` · `Dapper` · `Microservices`
+
+**Data, Cloud & DevOps**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+**Messaging & AI**
+
+`Apache Kafka` · `RabbitMQ` · `AWS SQS` · `Azure Service Bus` · `OpenAI API` · `LangChain` · `RAG`
+
+## 🚀 Featured Projects
+
+### 🏥 MediBook — Doctor Appointment Management System
+
+**Angular · ASP.NET Core · C# · SQL Server (planned integration)**
+
+A full-stack doctor appointment booking application I'm building to deepen my understanding of enterprise .NET architecture.
+
+- Implemented doctor listing and lookup API endpoints using controllers, services, and dependency injection.
+- Developing appointment booking endpoints with request/response DTOs.
+- Planning SQL Server persistence, authentication, and event-driven workflows as the project evolves.
+
+### 🤖 AI-Powered Travel Recommendation Engine
+
+A personalized travel recommendation project exploring AI-assisted itinerary suggestions.
+
+### 🚨 Emergency Vehicle Detection
+
+A computer vision project focused on identifying emergency vehicles.
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzkrishanram&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzkrishanram&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=itzkrishanram&theme=tokyonight&hide_border=true)
+
+</div>
+
+> GitHub statistics are generated by third-party services and may be delayed, rate-limited, or temporarily unavailable. The language card reflects public repository code, not overall proficiency.
+
+## 🤝 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-itzkrishanram-181717?style=for-the-badge&logo=github)](https://github.com/itzkrishanram)
+
+<!-- Add your verified LinkedIn and portfolio URLs here when ready. -->
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzkrishnaram&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzkrishnaram&theme=radical" alt="GitHub Streak" width="49%" />
-</p>
-
----
-
-### 📌 Projects  
-🔹 *Travel Recommendation Engine* – AI-based personalized itinerary generator  
-🔹 *Emergency Vehicle Detection* – Frontend NLP application  
-  
-
----
-
-### 📫 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/saravana19702001/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/itzkrishnaram">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="your-portfolio-link-here">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-</p>
-
----
-
-💡 "Building AI solutions that matter!" 🚀
+<div align="center"><i>Building scalable solutions, one commit at a time.</i> 🚀</div>
